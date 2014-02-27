@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-#labels CheckCCVliveBlance
+#labels CCStatusandBalance
 
 === Check CCV live + Blance ===
 
