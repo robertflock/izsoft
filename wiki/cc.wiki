@@ -1,4 +1,5 @@
 #summary One-sentence summary of this page.
+#labels CheckCCVliveBlance
 
 === Check CCV live + Blance ===
 
@@ -6,7 +7,7 @@ Fake IP và Truy cập vào trang:	|| *http//tillys.com* ||
 
 Đăng ký 1 tài khoản (account)
 
-Add item=> Order
+Add item => Sau đó Order (Check balance bao nhiu thì add item bấy nhiu)
 
 Tới phần Điền CCN
 
