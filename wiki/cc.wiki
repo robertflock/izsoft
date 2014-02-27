@@ -23,8 +23,8 @@ Nếu: Error authorised... => Cần có phải có Socks
 
 || CCN = Credit Card Number ||
 || EXP = Expire Date ||
-|| CCV2 = Security number ||
+|| CCV2 = Security code ||
 
 
 
-||         * _Tuts created for Tép Tu Te_ *         ||
+|| * _Tuts created for Tép Tu Te_ * ||
