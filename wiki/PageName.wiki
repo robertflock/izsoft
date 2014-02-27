@@ -1,7 +1,7 @@
 || *Check CCV live + Blance* ||
 
 
-Fake IP và Truy cập vào trang:	 [http//tillys.com tillys.com]
+Fake IP và Truy cập vào trang:	 *http//tillys.com*
 
 
 
@@ -17,8 +17,6 @@ Nếu : Error card...=>CC đã Die hoặc Balance không đủ
 
 Nếu : Error. Failed Billing =>CC Live + Balance đủ
 
-Nếu: Error authorised... => Cần socks || Mình thì làm cái account new ||
+Nếu: Error authorised... => Cần socks (Mình thì làm cái account new)
 
-_Check balance bao nhiu thì add item bấy nhiu_
-
-=====[http//tillys.com tillys]=====
+Check balance bao nhiu thì add item bấy nhiu
