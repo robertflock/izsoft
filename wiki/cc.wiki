@@ -17,7 +17,7 @@ Nếu : Error card...=>CC đã Die hoặc Balance không đủ
 
 Nếu : Error. Failed Billing =>CC Live + Balance đủ
 
-Nếu: Error authorised... => Cần socks (Mình thì làm cái account new)
+Nếu: Error authorised... => Cần có phải có Socks
 
 (Check balance bao nhiu thì add item bấy nhiu)
 
