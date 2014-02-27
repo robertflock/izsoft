@@ -1,9 +1,9 @@
 || *Check CCV live + Blance* ||
 
----- 
 
-Fake IP và Truy cập vào trang:	 [http//tillys.com label]
-http//tillys.com
+Fake IP và Truy cập vào trang:	 [http//tillys.com tillys.com]
+
+
 
 Đăng ký 1 tài khoản (account)
 
@@ -19,4 +19,6 @@ Nếu : Error. Failed Billing =>CC Live + Balance đủ
 
 Nếu: Error authorised... => Cần socks || Mình thì làm cái account new ||
 
-||Check balance bao nhiu thì add item bấy nhiu||
+_Check balance bao nhiu thì add item bấy nhiu_
+
+=====[http://code.google.com/p/izsoft/downloads/list Click vào đây để xem danh sách  download]=====
