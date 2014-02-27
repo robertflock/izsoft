@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 #labels CCStatusAndBalance
 
-=== Check CCV Status (Live or Dead)+ Blance ===
+=== Check CCV Status (Live or Dead) + Blance ===
 
 Fake IP sau đó truy cập vào trang:	|| *http//tillys.com* ||
 
