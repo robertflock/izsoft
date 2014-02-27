@@ -11,7 +11,7 @@ Add item => Sau đó Order (Check balance bao nhiu thì add item bấy nhiu)
 
 Tới phần Điền CCN
 
-Điền chính xác CCN + EXP + CVV2
+Điền chính xác CCN + EXP + CVV2 
 
 Nếu : Error card...=>CC đã Die hoặc Balance không đủ
 
@@ -20,6 +20,11 @@ Nếu : Error. Failed Billing =>CC Live + Balance đủ
 Nếu: Error authorised... => Cần socks (Mình thì làm cái account new)
 
 (Check balance bao nhiu thì add item bấy nhiu)
+
+|| CCN = Credit Card Number ||
+|| EXP = Expire Date ||
+|| CCV2 = Security number ||
+
 
 
 || * _Tuts created for Tép Tu Te_ * ||
