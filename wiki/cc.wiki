@@ -3,7 +3,7 @@
 
 === Check CCV live + Blance ===
 
-Fake IP và Truy cập vào trang:	|| *http//tillys.com* ||
+Fake IP sau đó truy cập vào trang:	|| *http//tillys.com* ||
 
 Đăng ký 1 tài khoản (account)
 
