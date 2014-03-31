@@ -35,7 +35,7 @@ Mặc định thì thời hạn Grub (Grub timeout) được đặt là 10 giây
 
 _sudo gedit /etc/default/grub_
 
-Trong file cấu hình, tìm đến dòng GRUB_TIMEOUT=10. Thay thế giá trị 10 bằng giá trị mong muốn. Lưu lại file sau đó chạy câu lệnh sau để cập nhật file grub:
+Trong file cấu hình, tìm đến dòng *GRUB_TIMEOUT=10*. Thay thế giá trị 10 bằng giá trị mong muốn. Lưu lại file sau đó chạy câu lệnh sau để cập nhật file grub:
 
 _sudo update-grub_
 
